@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-google-keep-api/static/css/main.763b72c3.chunk.css",
+    "main.js": "/react-google-keep-api/static/js/main.61dad391.chunk.js",
+    "main.js.map": "/react-google-keep-api/static/js/main.61dad391.chunk.js.map",
+    "runtime-main.js": "/react-google-keep-api/static/js/runtime-main.ce1f5367.js",
+    "runtime-main.js.map": "/react-google-keep-api/static/js/runtime-main.ce1f5367.js.map",
+    "static/js/2.4737b417.chunk.js": "/react-google-keep-api/static/js/2.4737b417.chunk.js",
+    "static/js/2.4737b417.chunk.js.map": "/react-google-keep-api/static/js/2.4737b417.chunk.js.map",
+    "index.html": "/react-google-keep-api/index.html",
+    "static/css/main.763b72c3.chunk.css.map": "/react-google-keep-api/static/css/main.763b72c3.chunk.css.map",
+    "static/js/2.4737b417.chunk.js.LICENSE.txt": "/react-google-keep-api/static/js/2.4737b417.chunk.js.LICENSE.txt",
+    "static/media/logo.085c3a52.png": "/react-google-keep-api/static/media/logo.085c3a52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce1f5367.js",
+    "static/js/2.4737b417.chunk.js",
+    "static/css/main.763b72c3.chunk.css",
+    "static/js/main.61dad391.chunk.js"
+  ]
+}
